@@ -4,7 +4,7 @@ Installation
 `Sentiment Analysis on Movie Review` works with Python3.3. If you know the drill, this should be enough:
 
     git clone https://github.com/SteffinRayen/psychic-disco.git
-    pip install -e psychic-disco -r psychic-disco/docs/setup/requirements-dev.txt
+    pip install -e psychic-disco -r psychic-disco/setup/requirements-dev.txt
     download_3rdparty_data.py
 
 If the short instructions are not enough, read on.
@@ -36,7 +36,7 @@ Create virtualenv and bootstrap pip:
 Clone and install Sentiment Analysis on Movie Review:
 
     git clone https://github.com/SteffinRayen/psychic-disco.git
-    pip install -e psychic-disco -r psychic-disco/docs/setup/requirements-dev.txt
+    pip install -e psychic-disco -r psychic-disco/setup/requirements-dev.txt
     download_3rdparty_data.py
 
 Optionally run the tests:
